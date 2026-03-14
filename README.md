@@ -9,8 +9,3 @@ Disponibilizar, de forma organizada, os **arquivos `.cs`** apresentados em sala 
 - Exemplos vistos em aula (classes, objetos, construtores, encapsulamento, herança, polimorfismo, interfaces etc.)
 - Exercícios e resoluções (quando disponibilizados)
 - Códigos extras para reforçar conteúdos ou tirar dúvidas comuns
-
-## Como usar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
